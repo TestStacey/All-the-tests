@@ -1,2 +1,4 @@
-* @TestStacey/48
+info/* @TestStacey/48
+!info/info2/ @TestStacey/48
+
 
